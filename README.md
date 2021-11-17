@@ -3,7 +3,7 @@
 #**Introduction**❤<br>
 Technology develops so fast these days, and the definition of art is not only paintings or sculptures anymore. People started to break the stereotype that artwork should only appear in museums, and they began to express art in different creative ways, such as digital works or installation art. In this week’s workshop, I learnt that computing could be one kind of art. It is a new perspective for me to think about how technology could affect the development in future.
 
-#**What is NFTs?**❤<br>
+#**What is NFTs**❤ <br>
 NFT stands for the non-fungible token. NFT can let people represent ownership of unique items and tokenise everything, such as artworks, collectables etc. The definition of NFT is they must be irreplaceable, inseparable and unique. For example, everyone could be an NFT, because everyone on the planet is unique and one of a kind. The ability of blockchain technology to assure the unique signature and ownership of NFTs. The fun fact is that nothing can stop people from copying digital arts; the buyer of the NFT can only prove they owned the original piece of artwork. 
 
 #**Nyan Cat Memes**❤<br>
