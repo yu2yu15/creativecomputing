@@ -21,11 +21,25 @@ The concept of NFT redefined the value of an artwork. The collectors could be no
 #**Experiments on Arduino**❤<br>
 I am entirely new to the world of coding. Luckily the tutorials online and my friend helped me a lot with the experiment on Arduino. I tried several tests throughout the week.
 
+*1. Blink A LED*
+![4](https://user-images.githubusercontent.com/94388569/142333371-ee04c45f-3b21-4d90-b34d-95960eedb5c5.jpg)
+
+*2. Multiple Buttons With One Analog Pin*
+![2](https://user-images.githubusercontent.com/94388569/142333397-bf580354-62d3-4615-bf63-090c65a50c60.jpg)
+
+*3. LED Scale*
+![3](https://user-images.githubusercontent.com/94388569/142333410-8bf4b4c4-d6fa-49a4-8539-07e61f241165.jpg)
+
+*4. Tempurature Alarm*
+![1](https://user-images.githubusercontent.com/94388569/142333453-c0c277fa-f92c-4541-b2f8-24b00c076249.jpg)
+
+*5. Write My Name On LCD*
+![5](https://user-images.githubusercontent.com/94388569/142333476-aefdf8e3-dc84-46da-be02-cc1fbdf9e345.jpg)
+
 The attempts are interesting and lead me to the next level of understanding of art and computing. Although I am not a material of coding, the experience taught me about the possibility of myself doing things that I have never done before.
 
 #**To improve and instruction**❤<br>
 I still need some time to learn how to code, but the internet helps me understand how to code. Maybe if you are confused about what to do, find some tutorial videos and follow them step by step will definitely help. And friends are the best helper when you need help, do not hesitate to ask your friend to see can they help you throughout the problem confusion. To improve my skill and knowledge with the coding era, I think the best way is to practice more. Practice make perfect.
-
 
 #**Bibliography**❤<br>
 
