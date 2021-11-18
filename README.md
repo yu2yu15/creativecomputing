@@ -43,3 +43,6 @@ I still need some time to learn how to code, but the internet helps me understan
 
 *7. “「如果對藝術進行編程，會變成什麼樣?」 區塊鏈締造靈感 新型態數位藝術誕生 - 非池中藝術網.” 非池中藝術網, 張家馨, Apr. 2021, https://artemperor.tw/focus/3905.*
 
+*8. Chan, Ren. “#04 Arduino輸出訊息利器-LCD1602液晶顯示器 | 旋翼科技.” 旋翼科技, 21 Oct. 2020, https://www.rotor.com.tw/?p=2894.*
+
+*9.Liao, Ping-Lun. “Tinkercad Circuits：LED 模擬走馬燈. 本文使用TinkerCad… | by Ping-Lun Liao | Medium.” Medium, Medium, 2 Nov. 2018, https://pinglunliao.medium.com/tinkercad-circuits-led-%E6%A8%A1%E6%93%AC%E8%B5%B0%E9%A6%AC%E7%87%88-f2b9123222b2.*
